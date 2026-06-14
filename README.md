@@ -3,9 +3,7 @@
 I build end-to-end machine learning systems from data analysis and modeling
 through deployment, monitoring, and iteration. My work is grounded in a strong
 statistical foundation (B.S. Statistics & Data Science,
-UCSB) and spent two years on longitudinal research at Stanford, working
-on large behavioral datasets before moving into applied ML and production
-systems.
+UCSB) and spent two years on longitudinal research at Stanford.
 
 Currently a Data Scientist at Candid, working on applied NLP and GenAI features
 in production. M.S. in Data Science & Artificial Intelligence (University of
