@@ -12,7 +12,7 @@ San Francisco).
 ### Selected Work
 
 - **[Hikeability — Daily Trail Conditions Classifier](https://github.com/nguyen-amy/hikeability)**: End-to-end MLOps
-  pipeline classifying 3,600+ trails daily. Benchmarked six model/strategy
+  pipeline classifying 3,600+ trails daily with LLM summary of user reports. Benchmarked six model/strategy
   combinations in MLflow, reached 98% accuracy, and parallelized inference to
   cut catalog throughput from 5 hours to 88 minutes.
   *(MLflow, Flask, Docker, GCS, GitHub Actions, Vercel)*
