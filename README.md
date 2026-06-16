@@ -17,7 +17,7 @@ San Francisco).
 - **[Predicting Fitbit Sleep Scores](https://github.com/nguyen-amy/Fitbit-Sleep-Score-Prediction)**: Used personal smartwatch's sleep tracking data to create statistical models and implement machine learning algorithms to predict Fitbit Sleep Scores.
   *(Techniques: Lasso, ridge regression, random forests, k-fold CV, bagging, boosting)*
 
-### Offline I'm a:
+### Offline
 - Snowboarder 🏂 
 - Film photographer 📷
 - Hiker + backpacker 🏔️🥾
