@@ -22,6 +22,5 @@ San Francisco).
 ### Offline I'm a:
 - Snowboarder 🏂 
 - Film photographer 📷
-- Music junkie 🎶
 - Hiker + backpacker 🏔️🥾
 - Home barista ☕️
