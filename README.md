@@ -5,7 +5,7 @@ through deployment, monitoring, and iteration. My work is grounded in a strong
 statistical foundation (B.S. Statistics & Data Science,
 UCSB) and spent two years on longitudinal sleep research at Stanford.
 
-Currently a Data Scientist at Candid, working on applied NLP and GenAI features
+Most recently a Data Science Intern at Candid, working on applied NLP and GenAI features
 in production. M.S. in Data Science & Artificial Intelligence (University of
 San Francisco).
 
