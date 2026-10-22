@@ -18,7 +18,7 @@ San Francisco).
 - **[Fantasy Football Faceoff](https://github.com/nguyen-amy/fantasy-football)**: Pipeline collects weekly NFL stats from the DataFeeds API and historical CSVs, stores in GCS, exposes a FastAPI service for retrieval and analysis, and (optionally) visualize via Streamlit to compare team and player stats with historical position performances. *(REST APIs, Docker, GCS, FastAPI, Streamlit)*
 - **[BLOG: The Most Sensitive Data in Nonprofit Tech isn't Donor Data](https://amynguy03.wixsite.com/ethics-blog)**: A look on the privacy of data pipelines, exploring how seemingly anonymized data can still re-identify and harm the people behind it.
 - **[BLOG: Understanding Binary Logistic Regression](https://nguyen-amy.github.io/linear-regression-final-project/)**
-- **[Predicting Fitbit Sleep Scores](https://github.com/nguyen-amy/Fitbit-Sleep-Score-Prediction)**: Used personal smartwatch's sleep tracking data to create statistical models and implement machine learning algorithms to predict Fitbit Sleep Scores.
+- **[Predicting Fitbit Sleep Scores](https://github.com/nguyen-amy/Fitbit-Sleep-Score-Prediction)**: 1st ML project; used personal smartwatch's sleep tracking data to create statistical models and implement machine learning algorithms to predict Fitbit Sleep Scores.
   *(Techniques: Lasso, ridge regression, random forests, k-fold CV, bagging, boosting)*
 
 ### Offline
